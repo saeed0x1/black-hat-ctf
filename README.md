@@ -17,7 +17,7 @@ DSAC{some random string}
 
 here the random string can be anything depending upon the problem
 
-## Setup
+## Setup 
 If you are interested in solving these challenges just clone this repository
 
 ```bash
