@@ -1,2 +1,11 @@
-# black-hat-ctf
-This CTF event was organised by Data Science analytics and Cyber Security club at the annual technial fest Prajyukttam, Assam Don Bosco University
+# Black Hat CTF
+
+There are 4 categories of challenges
+- Web Exploitation
+- Binary Exploitation
+- Digital Forensics
+- Cryptography
+
+Each category includes 3-5 problems
+
+
