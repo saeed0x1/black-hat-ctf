@@ -1,0 +1,5 @@
+1. extra_info : Hint : source
+2. get_the_admin : Hint : robots in website
+3. just_paste_it : Hint 1 : Source, Hint 2: just_paste_it
+4. divide_and_rule : Hint : Flag is divided
+5. hidden_somewhere : Hint : How could you mirror the website on your local machine so you could use more powerful tools for searching?
